@@ -8,10 +8,6 @@
   </a>
 </div>
 
-<!-- ============ PROFILE VIEWS + SOCIALS ============ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdishUprety&label=Profile+views&color=a855f7&style=for-the-badge" alt="views"/>
-</div>
 
 <div align="center">
   <a href="https://www.youtube.com/@valorant_rocks"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/></a>
