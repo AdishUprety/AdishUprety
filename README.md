@@ -31,9 +31,11 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 
 ### 🎥 Featured Animations
-<div align="center">
-  <img src=".github/workflows/featured_balanced.gif" width="600" alt="Manim reel"/>
-</div>
+
+
+https://github.com/user-attachments/assets/0073f036-0b15-426f-befb-1024046f4286
+
+
 
 
 ### 🛠️ Toolkit
