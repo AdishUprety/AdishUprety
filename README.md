@@ -105,11 +105,11 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 <div align="center">
   <h3>🎬 Latest on YouTube</h3>
-  <a href="https://www.youtube.com/watch?v=XxTpguMqVaI&t">
-    <img src="https://img.youtube.com/vi/XxTpguMqVaI&t/maxresdefault.jpg" width="480" alt="Watch on YouTube"/>
+  <a href="https://www.youtube.com/watch?v=XxTpguMqVaI">
+    <img src="https://img.youtube.com/vi/XxTpguMqVaI/maxresdefault.jpg" width="480" alt="Watch on YouTube"/>
   </a>
   <br/>
-  <a href="https://www.youtube.com/watch?v=XxTpguMqVaI&t">
+  <a href="https://www.youtube.com/watch?v=XxTpguMqVaI">
     <img src="https://img.shields.io/badge/Watch%20on-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/>
   </a>
 </div>
