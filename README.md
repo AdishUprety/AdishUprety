@@ -12,21 +12,19 @@
 <div align="center">
   <a href="https://www.youtube.com/@valorant_rocks"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/></a>
   <a href="https://www.linkedin.com/in/adishu/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
-  <a href="adish.uprety.30@dartmouth.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
-
+<a href="adish.uprety.30@dartmouth.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
   <a href="https://www.instagram.com/disw__/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6"/></a>
 </div>
 
 ---
 
-### 👋 About
+### About
 
 Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel inevitable and visuals that make them obvious.
 
-- 🎬 Building educational math animations in **Manim** — contour deformation, function-mapping, complex-plane visualizations
-- 🧮 Deep into **complex analysis**, **combinatorics**, and anything proof-based
-- 🌍 Represented **Nepal** at **IMMC 2026** — Honorable Mention, 1st at national tryouts
-- 🌱 Currently turning hard theorems into things you can *watch*
+-  Building educational math animations in **Manim** : Works include:  contour deformation, function-mapping, complex-plane visualizations, Monte-carlo simulation logic for e, Zeta Series Transformation and all.
+- Deep into **complex analysis**, **combinatorics**, and anything proof-based
+- Currently turning hard theorems into things you can *watch*
 
 <!-- ============ FEATURED ANIMATION ============ -->
 ### 🎥 Featured Animation
