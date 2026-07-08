@@ -14,10 +14,10 @@
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/@YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
-  <a href="https://x.com/YOUR_X"><img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=ffffff"/></a>
+  <a href="[https://youtube.com/@YOUR_YOUTUBE](https://www.youtube.com/@valorant_rocks)"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/></a>
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/adishu/)"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
+  <a href="adish.uprety.30@dartmouth.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
+  <a href="https://www.instagram.com/disw__/"><img src="[https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=ffffff](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"/></a>
 </div>
 
 ---
