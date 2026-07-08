@@ -29,31 +29,29 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 ### 🎥 Featured Animations
 
+#### Contour deformation
+<div align="center"><img src="MANIM_GIF_1" width="600"/></div>
 <div align="center">
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="MANIM_GIF_1" width="100%" alt="Contour deformation"/><br/>
-      <sub><b>Contour deformation</b></sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="MANIM_GIF_2" width="100%" alt="Zeta series transformation"/><br/>
-      <sub><b>Zeta series transformation</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <img src="MANIM_GIF_3" width="100%" alt="Monte Carlo estimate of e"/><br/>
-      <sub><b>Monte Carlo estimate of <i>e</i></b></sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="MANIM_GIF_4" width="100%" alt="Function mapping"/><br/>
-      <sub><b>Function mapping</b></sub>
-    </td>
-  </tr>
-</table>
+  <a href="#function-mapping">◀ Prev</a> &nbsp;•&nbsp; <b>1 / 4</b> &nbsp;•&nbsp; <a href="#zeta-series-transformation">Next ▶</a>
 </div>
 
+#### Zeta series transformation
+<div align="center"><img src="MANIM_GIF_2" width="600"/></div>
+<div align="center">
+  <a href="#contour-deformation">◀ Prev</a> &nbsp;•&nbsp; <b>2 / 4</b> &nbsp;•&nbsp; <a href="#monte-carlo-estimate-of-e">Next ▶</a>
+</div>
+
+#### Monte Carlo estimate of e
+<div align="center"><img src="MANIM_GIF_3" width="600"/></div>
+<div align="center">
+  <a href="#zeta-series-transformation">◀ Prev</a> &nbsp;•&nbsp; <b>3 / 4</b> &nbsp;•&nbsp; <a href="#function-mapping">Next ▶</a>
+</div>
+
+#### Function mapping
+<div align="center"><img src="MANIM_GIF_4" width="600"/></div>
+<div align="center">
+  <a href="#monte-carlo-estimate-of-e">◀ Prev</a> &nbsp;•&nbsp; <b>4 / 4</b> &nbsp;•&nbsp; <a href="#contour-deformation">Next ▶</a>
+</div>
 ---
 
 ### 🛠️ Toolkit
