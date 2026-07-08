@@ -4,7 +4,7 @@
 <!-- ============ TYPING SUBTITLE ============ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Complex+analysis+enjoyer;Manim+animator;Representing+Nepal+at+IMMC+2026;Dartmouth+Class+of+2030" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Complex+analysis+enjoyer;Manim+animator;IMMC+2026+Honorable+Mention;Dartmouth+Class+of+2030" alt="Typing SVG" />
   </a>
 </div>
 
