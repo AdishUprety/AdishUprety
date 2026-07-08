@@ -87,7 +87,7 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 | 🧑‍🏫 **MMM Bootcamp** | Mentor & participant in Nepal's math-modeling community |
 | 🧮 **Modeling** | Wildlife conservation (Etosha, MINLP) · Clean-air allocation (Kathmandu, K-means + AHP) |
 | 🎬 **Manim** | Educational animations on complex analysis, series, and simulation |
-| 🎓 **Dartmouth** | Incoming math student, Class of 2030 |
+| 🎓 **Dartmouth** | Incoming math and Data Science student, Class of 2030 |
 
 </div>
 
@@ -108,4 +108,14 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 </div>
 
 <!-- ============ ANIMATED FOOTER ============ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f472b6,50:a855f7,100:22d3ee&height=120&section=footer" width="100%"/>
+<!-- ============ LATEST VIDEO (footer) ============ -->
+<div align="center">
+  <h3>🎬 Latest on YouTube</h3>
+  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
+    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="480" alt="Watch on YouTube"/>
+  </a>
+  <br/>
+  <a href="https://www.youtube.com/watch?v=XxTpguMqVaI&t">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/>
+  </a>
+</div>
