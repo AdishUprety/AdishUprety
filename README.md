@@ -1,14 +1,12 @@
-<!-- ============ ANIMATED HEADER ============ -->
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:f472b6&height=200&section=header&text=Adish%20Uprety&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<!-- ============ TYPING SUBTITLE ============ -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Complex+analysis+enjoyer;Manim+animator;IMMC+2026+Honorable+Mention;Dartmouth+Class+of+2030" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- ============ SOCIALS ============ -->
 <div align="center">
   <a href="https://www.youtube.com/@valorant_rocks"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/></a>
   <a href="https://www.linkedin.com/in/adishu/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
@@ -28,7 +26,7 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 ---
 
-<!-- ============ FEATURED ANIMATIONS (GRID GALLERY) ============ -->
+
 ### 🎥 Featured Animations
 
 <div align="center">
@@ -73,10 +71,8 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 </div>
 
-<!-- thin animated divider -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:f472b6&height=60&section=header" width="100%"/>
 
-<!-- ============ HIGHLIGHTS (replaces stats) ============ -->
 ### 🏆 Highlights
 
 <div align="center">
@@ -107,12 +103,10 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 </div>
 
-<!-- ============ ANIMATED FOOTER ============ -->
-<!-- ============ LATEST VIDEO (footer) ============ -->
 <div align="center">
   <h3>🎬 Latest on YouTube</h3>
-  <a href="https://www.youtube.com/watch?v=VIDEO_ID">
-    <img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="480" alt="Watch on YouTube"/>
+  <a href="https://www.youtube.com/watch?v=XxTpguMqVaI&t">
+    <img src="https://img.youtube.com/vi/XxTpguMqVaI&t/maxresdefault.jpg" width="480" alt="Watch on YouTube"/>
   </a>
   <br/>
   <a href="https://www.youtube.com/watch?v=XxTpguMqVaI&t">
