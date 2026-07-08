@@ -8,11 +8,11 @@
   </a>
 </div>
 
-
+<!-- ============ SOCIALS ============ -->
 <div align="center">
   <a href="https://www.youtube.com/@valorant_rocks"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F472B6"/></a>
   <a href="https://www.linkedin.com/in/adishu/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/></a>
-<a href="adish.uprety.30@dartmouth.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
+  <a href="mailto:adish.uprety.30@dartmouth.edu"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=A855F7"/></a>
   <a href="https://www.instagram.com/disw__/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F472B6"/></a>
 </div>
 
@@ -22,16 +22,38 @@
 
 Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel inevitable and visuals that make them obvious.
 
--  Building educational math animations in **Manim** : Works include:  contour deformation, function-mapping, complex-plane visualizations, Monte-carlo simulation logic for e, Zeta Series Transformation and all.
+- Building educational math animations in **Manim** — contour deformation, function-mapping, complex-plane visualizations, Monte Carlo estimation of *e*, Zeta series transformations, and more
 - Deep into **complex analysis**, **combinatorics**, and anything proof-based
 - Currently turning hard theorems into things you can *watch*
 
-<!-- ============ FEATURED ANIMATION ============ -->
-### 🎥 Featured Animation
+---
+
+<!-- ============ FEATURED ANIMATIONS (GRID GALLERY) ============ -->
+### 🎥 Featured Animations
 
 <div align="center">
-  <!-- Replace the src below with your rendered Manim gif URL (see setup notes) -->
-  <img src="MANIM_GIF_URL" alt="Manim animation" width="640"/>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="MANIM_GIF_1" width="100%" alt="Contour deformation"/><br/>
+      <sub><b>Contour deformation</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="MANIM_GIF_2" width="100%" alt="Zeta series transformation"/><br/>
+      <sub><b>Zeta series transformation</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="MANIM_GIF_3" width="100%" alt="Monte Carlo estimate of e"/><br/>
+      <sub><b>Monte Carlo estimate of <i>e</i></b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="MANIM_GIF_4" width="100%" alt="Function mapping"/><br/>
+      <sub><b>Function mapping</b></sub>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -47,36 +69,42 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 ![LaTeX](https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=latex&logoColor=22D3EE)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F472B6)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A855F7)
-[![Manim Badge](https://shields.io)](https://www.manim.community/)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+
+</div>
+
+<!-- thin animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:a855f7,100:f472b6&height=60&section=header" width="100%"/>
+
+<!-- ============ HIGHLIGHTS (replaces stats) ============ -->
+### 🏆 Highlights
+
+<div align="center">
+
+|   |   |
+|---|---|
+| 🥇 **IMMC 2026** | 1st at Nepal national tryouts · Honorable Mention (international) |
+| 🧑‍🏫 **MMM Bootcamp** | Mentor & participant in Nepal's math-modeling community |
+| 🧮 **Modeling** | Wildlife conservation (Etosha, MINLP) · Clean-air allocation (Kathmandu, K-means + AHP) |
+| 🎬 **Manim** | Educational animations on complex analysis, series, and simulation |
+| 🎓 **Dartmouth** | Incoming math student, Class of 2030 |
 
 </div>
 
 ---
 
-### 📊 Stats
+### 🔭 Currently Exploring
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdishUprety&show_icons=true&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=22d3ee&text_color=e2e8f0&include_all_commits=true&count_private=true" height="165" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdishUprety&layout=compact&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=e2e8f0&langs_count=8" height="165" alt="top langs"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AdishUprety&hide_border=true&background=0D1117&ring=a855f7&fire=f472b6&currStreakNum=ffffff&currStreakLabel=22d3ee&sideNums=ffffff&sideLabels=e2e8f0&dates=8b949e" alt="streak"/>
-</div>
+![Complex Analysis](https://img.shields.io/badge/Complex_Analysis-0D1117?style=flat-square&labelColor=a855f7)
+![Contour Integration](https://img.shields.io/badge/Contour_Integration-0D1117?style=flat-square&labelColor=22d3ee)
+![Residue Theorem](https://img.shields.io/badge/Residue_Theorem-0D1117?style=flat-square&labelColor=f472b6)
+![Combinatorics](https://img.shields.io/badge/Combinatorics-0D1117?style=flat-square&labelColor=a855f7)
+![Zeta Functions](https://img.shields.io/badge/Zeta_Functions-0D1117?style=flat-square&labelColor=22d3ee)
+![Monte Carlo](https://img.shields.io/badge/Monte_Carlo-0D1117?style=flat-square&labelColor=f472b6)
+![Proof-based Reasoning](https://img.shields.io/badge/Proof--based_Reasoning-0D1117?style=flat-square&labelColor=a855f7)
 
-<!-- ============ ANIMATED ACTIVITY GRAPH ============ -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdishUprety&bg_color=0D1117&color=a855f7&line=22d3ee&point=f472b6&area=true&hide_border=true" width="100%" alt="activity graph"/>
-</div>
-
-<!-- ============ TROPHIES ============ -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AdishUprety&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
-</div>
-
-<!-- ============ SNAKE (needs the GitHub Action, see setup notes) ============ -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/AdishUprety/AdishUprety/output/github-snake-dark.svg" alt="snake eating contributions"/>
 </div>
 
 <!-- ============ ANIMATED FOOTER ============ -->
