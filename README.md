@@ -1,7 +1,7 @@
 <h1 align="center">Adish Uprety</h1>
 
 <p align="center">
-  Math · Modeling · Motion
+  Math · Modeling · Manim
 </p>
 
 <p align="center">
