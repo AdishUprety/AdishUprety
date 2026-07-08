@@ -32,7 +32,7 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 ### 🎥 Featured Animations
 <div align="center">
-  <img src="featured.gif" width="600" alt="Manim reel"/>
+  <img src=".github/workflows/featured_balanced.gif" width="600" alt="Manim reel"/>
 </div>
 
 
