@@ -22,7 +22,7 @@
 
 Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel inevitable and visuals that make them obvious.
 
-- Building educational math animations in **Manim** — contour deformation, function-mapping, complex-plane visualizations, Monte Carlo estimation of *e*, Zeta series transformations, and more
+- Building educational math animations in **Manim**: Works include,  contour deformation, function-mapping, complex-plane visualizations, Monte Carlo estimation of *e*, Zeta series transformations, and more
 - Deep into **complex analysis**, **combinatorics**, and anything proof-based
 - Currently turning hard theorems into things you can *watch*
 
@@ -69,7 +69,7 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 ![LaTeX](https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=latex&logoColor=22D3EE)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F472B6)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A855F7)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![Manim](https://img.shields.io/badge/Manim-0D1117?style=for-the-badge&logoColor=A855F7)
 
 </div>
 
