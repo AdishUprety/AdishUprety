@@ -29,6 +29,10 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 
 ### 🎥 Featured Animations
 
+
+https://github.com/user-attachments/assets/8546c85c-f50f-4885-aa6d-4d5c2e42e5d1
+
+
 #### Contour deformation
 <div align="center"><img src="MANIM_GIF_1" width="600"/></div>
 <div align="center">
