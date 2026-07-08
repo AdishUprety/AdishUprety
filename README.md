@@ -47,7 +47,7 @@ Incoming math student at **Dartmouth (Class of '30)**. I like proofs that feel i
 ![LaTeX](https://img.shields.io/badge/LaTeX-0D1117?style=for-the-badge&logo=latex&logoColor=22D3EE)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=for-the-badge&logo=jupyter&logoColor=F472B6)
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A855F7)
-![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=22D3EE)
+![Manim](https://shields.io)](https://www.manim.community/)
 
 </div>
 
